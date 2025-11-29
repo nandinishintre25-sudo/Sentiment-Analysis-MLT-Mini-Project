@@ -1,7 +1,9 @@
-# Sentiment Analysis Web App
+Sentiment Analysis Web App
 
 ## Overview
-This project is a web application for sentiment analysis. It allows users to input text and receive a sentiment analysis score indicating whether the sentiment is positive, negative, or neutral.
+In an era of data abundance, understanding the emotional tone behind text is crucial for businesses, researchers, and developers. This Sentiment Analysis Web App is a machine-learning-powered solution designed to classify text data into distinct emotional categories: Positive, Negative, or Neutral.
+
+Built with a robust Python backend and a responsive frontend, the application utilizes Natural Language Processing (NLP) techniques to preprocess user input and feed it into a trained classification model. Whether you are analyzing customer feedback, social media comments, or product reviews, this tool provides instant, actionable insights.
 
 ## Features
 - **User Input**: Users can input text directly into the web app.
